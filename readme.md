@@ -1,4 +1,4 @@
-# How to ruin this test
+# How to run this test
 
 start the server
 
